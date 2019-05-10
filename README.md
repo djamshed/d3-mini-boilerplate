@@ -26,3 +26,8 @@ Production build:
 ```sh
 yarn build
 ```
+
+
+## Demo screenshot
+
+![screenshot](screenshot.png)
